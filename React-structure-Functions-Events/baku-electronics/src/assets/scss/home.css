@@ -1,0 +1,22 @@
+.product {
+  position: absolute;
+}
+
+.product-price {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: red;
+  position: relative;
+  margin-top: -67px;
+  display: flex;
+  text-align: center;
+}
+.product-price .price {
+  color: #fff;
+  font-size: 14px;
+}
+.product-price .sale {
+  font-size: 12px;
+  color: #fff;
+}/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,54 @@
+.sale-header {
+
+    height: 30px;
+    background-color: red;
+
+    p {
+        text-align: center;
+        color: white;
+    }
+}
+
+.header {
+
+    display: flex;
+
+    img {
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    input {
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        height: 50px;
+        width: 431px;
+        padding: 0 40px 0 25px;
+        border: gray 1px solid;
+        outline: none;
+        margin-top: 30px;
+    }
+
+    ul {
+        margin-top: 43px;
+        list-style: none;
+        gap: 20px;
+        cursor: pointer;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .call {
+        h2 {
+            font-size: 36px;
+        }
+
+        margin-top: 33px;
+        margin-left: 30px;
+    }
+
+}
